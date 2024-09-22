@@ -51,7 +51,7 @@ const Navbar = () => {
 
       {/* Full-screen overlay menu for mobile */}
       <div
-        className={`fixed top-0 left-0 h-full w-full bg-lime-400 transform transition-transform duration-500 ease-in-out z-50 ${
+        className={`fixed top-0 left-0 h-screen w-full bg-lime-400 transform transition-transform duration-500 ease-in-out z-50 ${
           isOpen ? "translate-x-0" : "-translate-x-full"
         }`}
       >
