@@ -6,9 +6,12 @@
         "price": 59.99,
         "currency": "USD",
         "image": {
-          "src": "https://i.ibb.co/SPLtcyX/wireless-headphones.jpg",
+          "src": "Rectangle 5.png",
           "alt": "Wireless Headphones"
-        }
+
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
+
       },
       {
         "id": 2,
@@ -16,9 +19,10 @@
         "price": 699.99,
         "currency": "USD",
         "image": {
-          "src": "https://i.ibb.co/SPLtcyX/smartphone.jpg",
+          "src": "Rectangle 5.png",
           "alt": "Smartphone"
-        }
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
       },
       {
         "id": 3,
@@ -26,9 +30,10 @@
         "price": 199.99,
         "currency": "USD",
         "image": {
-          "src": "https://i.ibb.co/SPLtcyX/smart-watch.jpg",
+          "src": "Rectangle 5.png",
           "alt": "Smart Watch"
-        }
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
       },
       {
         "id": 4,
@@ -36,9 +41,76 @@
         "price": 1199.99,
         "currency": "USD",
         "image": {
-          "src": "https://i.ibb.co/SPLtcyX/laptop.jpg",
+          "src": "Rectangle 5.png",
           "alt": "Laptop"
-        }
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
+      },
+      {
+        "id": 3,
+        "title": "Smart Watch",
+        "price": 199.99,
+        "currency": "USD",
+        "image": {
+          "src": "Rectangle 5.png",
+          "alt": "Smart Watch"
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
+      },
+      {
+        "id": 4,
+        "title": "Laptop",
+        "price": 1199.99,
+        "currency": "USD",
+        "image": {
+          "src": "Rectangle 5.png",
+          "alt": "Laptop"
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
+      },
+      {
+        "id": 3,
+        "title": "Smart Watch",
+        "price": 199.99,
+        "currency": "USD",
+        "image": {
+          "src": "Rectangle 5.png",
+          "alt": "Smart Watch"
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
+      },
+      {
+        "id": 4,
+        "title": "Laptop",
+        "price": 1199.99,
+        "currency": "USD",
+        "image": {
+          "src": "Rectangle 5.png",
+          "alt": "Laptop"
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
+      },
+      {
+        "id": 3,
+        "title": "Smart Watch",
+        "price": 199.99,
+        "currency": "USD",
+        "image": {
+          "src": "Rectangle 5.png",
+          "alt": "Smart Watch"
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
+      },
+      {
+        "id": 4,
+        "title": "Laptop",
+        "price": 1199.99,
+        "currency": "USD",
+        "image": {
+          "src": "Rectangle 5.png",
+          "alt": "Laptop"
+        },
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut imperdiet lectus."
       }
     ]
   }
