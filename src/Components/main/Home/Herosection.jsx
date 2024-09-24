@@ -1,19 +1,22 @@
 import React from "react";
 import bannerimgpng from "/bannerimg.png";
 import { BiSearchAlt } from "react-icons/bi";
+import Headline from "../../../shared/ui/Headline";
+import Title from "../../../shared/ui/Title";
 
 const Herosection = () => {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 items-center px-4 lg:px-12 py-10 mainFont">
       {/* Left Section (Text and Input) */}
       <div className="leading-loose space-y-6">
-        <h1 className="text-[32px] md:text-[40px] lg:text-[44px] font-semibold leading-snug">
+        <Headline>
           Good <span className="text-primary">booking,</span> great memories
-        </h1>
-        <p className="text-secondary text-base md:text-lg lg:text-xl">
+        </Headline>
+        <Title>
           Enable diners to customize their booking by requesting a specific
           table location or view.
-        </p>
+        </Title>
+
         {/* Search Input */}
         <div className="relative w-full max-w-md">
           <input

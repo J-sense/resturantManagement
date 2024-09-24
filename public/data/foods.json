@@ -1,0 +1,45 @@
+{
+    "foods": [
+      {
+        "id": 1,
+        "title": "Wireless Headphones",
+        "price": 59.99,
+        "currency": "USD",
+        "image": {
+          "src": "https://i.ibb.co/SPLtcyX/wireless-headphones.jpg",
+          "alt": "Wireless Headphones"
+        }
+      },
+      {
+        "id": 2,
+        "title": "Smartphone",
+        "price": 699.99,
+        "currency": "USD",
+        "image": {
+          "src": "https://i.ibb.co/SPLtcyX/smartphone.jpg",
+          "alt": "Smartphone"
+        }
+      },
+      {
+        "id": 3,
+        "title": "Smart Watch",
+        "price": 199.99,
+        "currency": "USD",
+        "image": {
+          "src": "https://i.ibb.co/SPLtcyX/smart-watch.jpg",
+          "alt": "Smart Watch"
+        }
+      },
+      {
+        "id": 4,
+        "title": "Laptop",
+        "price": 1199.99,
+        "currency": "USD",
+        "image": {
+          "src": "https://i.ibb.co/SPLtcyX/laptop.jpg",
+          "alt": "Laptop"
+        }
+      }
+    ]
+  }
+  
